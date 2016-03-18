@@ -1,0 +1,28 @@
+name: SONOMA SOUND
+favicon: null
+layout_spectrum: 0.3947250349447131
+typography_spectrum: 0.7922284132800996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8544663321226835
+  lightness: 0.16186299757100642
+  saturation: 0.3901495784521103
+  rhythmicContrast: 0.20957904984243214
+purpose: []
